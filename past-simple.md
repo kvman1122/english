@@ -1,11 +1,11 @@
 # Past Simple
 
 ## Use
-* 2323423
-* О последовательных действиях в прошлом
-* О событии, которое длилось определенное время, но началось и закончилось в прошлом (с фразами for two years, all day, all year)
-* О действии, которое повторялось в прошлом (e. g. _I went to school in Brooklyn_)
-* О законченном периоде в прошлом (e. g. _I lived in Spain last year_)
+* About an event that happened at some point in the past
+* On consecutive actions in the past
+* About an event that lasted a certain time, but started and ended in the past (with phrases for two years, all day, all year)
+* About the action that was repeated in the past (e.g. I went to school in Brooklyn)
+* A completed period in the past (e.g. I lived in Spain last year)
 
 
 ### Phrases
@@ -19,12 +19,12 @@
 ### Positives
 
 #### Regular verbs
-    I + V-ed/ -d (если глагол оканчивается на -е)
+    I + V-ed/ -d ( If the verb ends in -е)
 > I played with my dog.  
 I lived in Moscow.
 
-    Согласная + y → i + ed
-    Гласная + y → y + ed
+    Consonant + y → i + ed
+    Vowel + y → y + ed
 > I cried.
 
 #### Irregular verbs
